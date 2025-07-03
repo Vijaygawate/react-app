@@ -1,4 +1,4 @@
-#Dockerfile for python application
+#Dockerfile for python applications
 
 FROM node:16-alpine 
 WORKDIR '/app'
