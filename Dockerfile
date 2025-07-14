@@ -1,5 +1,4 @@
-#Dockerfile for python applications, test application
-
+#Dockerfile_python
 FROM node:16-alpine 
 WORKDIR '/app'
 COPY package.json .
