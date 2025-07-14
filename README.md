@@ -1,5 +1,6 @@
 
 ![Release Status](https://github.com/Vijaygawate/react-app/actions/workflows/tag-release-creation.yml/badge.svg)
+![Deployment Status](https://github.com/Vijaygawate/react-app/actions/workflows/deployment.yml/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
