@@ -1,4 +1,4 @@
-name: On Release Created
+name: Deploy to web app
 
 on:
   release:
